@@ -1,0 +1,222 @@
+---
+title: "Les Visages de Ninon de Lenclos à travers son histoire éditoriale"
+footer: Actualités de la Recherche en Humanités numériques
+format: revealjs
+theme: simple
+author:
+  name: Nolwenn PAMART
+  email: nolwenn.pamart@univ-rouen.fr
+  institute: Chaire d'excellence en édition numérique - Université de Rouen 
+
+date: 2025/05/26
+lang: fr
+slide-number: true
+scrollable : true 
+bibliography : /home/nolwenn-pamart/Documents/Presentations/20250527_Actualites_presentationninon/PresentationMaster.bib
+csl: /home/nolwenn-pamart/Documents/Presentations/20250527_Actualites_presentationninon/styleaix.csl
+
+---
+
+> Si cette mode continue, il y aura autant d’histoires de Ninon que de Louis XIV.  
+
+@voltaireLettreMademoiselleLenclos2006 
+
+--- 
+
+## Étudier la réception d'un personnage historique...
+
+### Anne de Lenclos (1620-1705)
+
+::: {.notes}
+Courtisane, salonnière, épistolière, femme de lettres, musicienne... Anne de Lenclos, restée demoiselle toute sa vie, est une figure importante du XVIIe siècle. 
+Elle laisse peu d'écrits : quelques lettres seulement, dont des lettres écrites à Saint-Évremond, peuvent lui être attribuées de manière à peu près sûre.
+Elle meurt en 1705, et au tournant des années 1750, on assiste à un véritablement emballement éditorial la concernant. 
+
+Étude de réception / Sociologie la littérature.
+:::
+
+::: {layout-ncol=2}
+![Georg Friedrich Schmidt, d'après Louis Elle, Ninon de Lenclos (c. 1737-1739)](./20250527_diapo_ninon_files/ninon1.png) 
+
+![Thomas Worlidge, *Ninon de Lenclos from an original picture given by herself to the Countess of Sandwich and by the present Earl of Sandwich to Mr. Walpole*, 1757](./20250527_diapo_ninon_files/ninon4.png)
+
+:::
+
+---
+
+### ... de la fabrique de sa mémoire... 
+* « la moderne Léontium » @chateauneufDialogueMusiqueAnciens1725
+* « le Philosophe le plus aimable qu'ait jamais eu la Nation française » @bretMemoiresVieMademoiselle1751a
+* « l ’écolière de Montaigne » @lacroixMarionDelormeNinon1859
+* « [la] reine[...] de la main gauche » @capefigueNinonLenclosPrecieuses1864
+
+::: {.notes}
+C'est quasi ininterrompu : de sa mort au début du XXe siècle, il y a un phénomène "Ninon de Lenclos". Mais derrière ce nom se cache une multiplicité. C'est d'autant plus intéressant que de son vivant, elle est présente, mais sous des noms à clé, par allusions -- disparue, elle est cependant érigée en modèle (ou contre-modèle). 
+Ci-devant quelques exemples des nombreuses périphrases utilisées pour la désigner (certaines sont récurrentes, comme "la moderne Léontium").
+
+:::
+
+--- 
+
+### ... à son devenir littéraire...
+
+::: {layout-ncol=2}
+
+![](./20250527_diapo_ninon_files/mirecourt.jpeg)
+
+
+* *Molière chez Ninon, ou le siècle des grand hommes*, @gougesMoliereChezNinon1788
+* *Ninon de Lenclos et le prisonnier masqué*, @cubieres-palmezeauxNinonLenclosPrisonnier1806
+* *Mémoires de Ninon de Lenclos* @mirecourtMemoiresNinonLenclos1878
+* *L'Exemple de Ninon de Lenclos amoureuse* @tinanLExempleNinonLenclos1898
+
+:::
+
+::: {.notes}
+Ninon devient un personnage littéraire, et apparaît dans de nombreuses fictions, aux statuts parfois ambigus. Des textes aux "régimes de vérité" très différents qui s'entremêlent et se citent les uns les autres. De nouveau quelques exemples : Ninon dans les biographies historiques de Mirecourt et dans le roman populaire, Ninon de vaudeville, etc.
+
+:::
+
+---  
+
+## ... et au-delà {background-image="./20250527_diapo_ninon_files/Bohlman1.jpg" background-opacity=0.3}
+
+* Partitions musicales
+* Livrets d'opéra 
+* Produits cosmétiques
+* Modèles de robe
+* etc.  
+
+---
+
+## Une histoire matérielle de la réception {background-image="./20250527_diapo_ninon_files/20250213_104318.jpg" background-opacity=0.2}
+
+::: {.notes}
+Si l'on reprend l'intitulé du sujet de thèse, une autre particularité à cette étude de réception : le fait qu'elle utilise l'histoire éditoriale / l'histoire du livre comme outil. Proposer une histoire matérielle de la réception : qu'est-ce que cela implique ? 
+Fruit de mon parcours (conservatrice + exp à la RLR) : l'expérience du texte est conditionnée à la matérialité de l'objet livre, à ses conditions de distribution, à la manière aussi dont le texte est présenté. 
+
+Ex : un même poème, imprimé sur une borne dans les gares / lu sur un RS vs imprimé sur un recueil tiré à 50 exemplaires sur du papier rare --> a-t-on la même lecture ? A-t-on la même expérience du poème ?
+
+Pour Ninon, c'est pareil. *Quelques éléments de bibliographie matérielle pour mieux comprendre le statut des textes que j'étudie* :
+
+:::
+
+::: {.fragment}
+* Éditions avec privilège/privilège tacite/éditions pirates  
+:::
+::: {.fragment}
+* Recueils composites  
+:::
+::: {.fragment}
+* Traductions 
+::: 
+::: {.fragment}
+* Évolution des textes (enrichissement, corrections, etc.)    
+:::
+::: {.fragment}
+* Circulation des textes 
+:::
+
+::: {.fragment .fade-up}
+-> Autant d'indices pour cerner et comprendre la « **fabrique d'une femme illustre** » et ses mécanismes.
+
+::: {.notes}
+Légitimation, marginalisation / Ériger en modèle ou en contre-modèle 
+Replacer ou non dans son contexte : jouer de l'anachronisme (Ninon de Lenclos rencontre une grisette) ou essayer de reconstituer un XVIIe forcément fantasmé.
+:::
+:::
+---
+
+### Exemple : les rapports de proximité 
+
+- Place des ouvrages consacrés à Ninon de Lenclos dans deux **catalogues de libraire **: des visions du monde & et des stratégies commerciales différentes 
+
+:::{.notes}
+Organisation d'une bibliothèque : vision du monde/vision d'un texte. 
+
+3 textes sur Ninon de Lenclos paraissent coup sur coup de 1750 à 1752 : Damours, Bret, Douxménil. Ici Mémoires Bret (plutôt historique, s'appuie sur des recherches, compilations dont on a trace car ms de travail conservé à la BnF et numérisé / Lettres de Damours complètement inventées, et c'est assumé. 2e édition : cite vers sur les lettres d'une personne qui ne croit pas qu'elles sont de Ninon / argument : même si elles sont fausses, elles sont intéressantes, donc valent le coup d'être lues / note du traducteur éd1 allemande de 1751 : un vocabulaire totalement anachronique pour le XVIIe mais complètement en phase avec 1750's. Bref, 2 régimes de réalité, mais on notera que libraire 1 : les lettres sont à côté de celles de Mme de Sévigné / Vie de Ninon de Lenclos, a contrario, voisine avec nombreux romans. Parenté moins dans le "régime de vérité" que dans contexte philosophique du texte //  libertins comme Diderot etc.)
+:::
+
+::: {layout-ncol=2}
+![*Lettres de Ninon de Lenclos au marquis de Sévigné* de Louis Damours et *Vie de la même*, présenté à côté des lettres de Madame de Sévigné @rollinCatalogueLivresQui1751](./20250527_diapo_ninon_files/20250130_130226.jpg)
+
+![*Mémoires sur la vie de Mademoiselle de Lenclos* d'Antoine Bret, un texte au régime de vérité plus assuré, placé à côté du *Paysan parvenu* de Marivaux, du *Roman comique* de Scarron et des *Bijoux indiscrets* de Denis Diderot @baucheCatalogueLivresSortes1752](./20250527_diapo_ninon_files/20250130_132057.jpg)
+:::
+
+## Outils et formats 
+
+| Contenu | Format (*Outils*) | Cumulonimbus |
+|---------|:-----|------:|
+| Notes brutes      | .md (*Zettlr*)  ; Papier | Gitlab |
+| Bibliographie  | BibteX (*Zotero*) |   Synchronisation Zotero  |
+| Photographies | .jpg   | Nakala  |
+| Rédaction | .md vers ...? (*Zettlr  + Pandoc*) |    Gitlab  |
+| Présentations | .md (*Quarto + Reveal*) | Gitlab | 
+
+--- 
+
+## *Développements* à venir
+
+::: {.notes}
+et c'est volontairement que j'utilise ce terme ambivalent de développement. Focus sur les questionnements / humanités numériques. Un aperçu ? 
+:::
+
+### Quel projet d'édition ?
+
+- *Lettres de Ninon de Lenclos au marquis de Sévigné* de @damoursLettresNinonLEnclos1750  
+- *Correspondance secrète de Ninon de Lenclos* de @segurCorrespondanceSecretteEntre1789  
+- *Mémoires sur la vie de Mademoiselle de Lenclos* de @bretMemoiresVieMademoiselle1751a  
+- *Mémoires et lettres pour servir à l'histoire de la vie de mademoiselle de L'enclos* de @douxmenilMemoiresLettresPour1751   
+- L'Exemple de Ninon de Lenclos amoureuse de @tinanLExempleNinonLenclos1898 
+
+---
+
+### Quels principes d'édition ?  
+
+Un contre-exemple éloquent : 
+
+::: {.fragment}
+> Les renseignements apocryphes ont autant de valeur que les autres, s'ils font bien... peu importe que presque toutes les « Lettres de Ninon » soient de Damours ou de Ségur, et que Tallemant, Chavagnac et Voltaire se contredisent... on démarque de son mieux, on transpose, on lie, on « schicksale »... et le résultat n'a besoin d'être ni original, ni personnel, ni inédit -- il suffit qu'il amuse...  
+
+@tinanLExempleNinonLenclos1898 
+:::
+
+---
+
+### Gérer les données d'exemplaire
+
+![](./20250527_diapo_ninon_files/capture_biblio.png)
+
+::: {layout-ncol=2}
+![](./20250527_diapo_ninon_files/AnnotationJammet.jpg)
+ 
+![](./20250527_diapo_ninon_files/ninon_gribouillee.jpg)
+:::
+---
+
+### La question des métadonnées en bibliothèque
+
+Deux exemples de notices avec attributions d'auteurs problématiques : 
+
+::: {layout-ncol=2}
+![](./20250527_diapo_ninon_files/BNF1.png)
+ 
+![](./20250527_diapo_ninon_files/BNF2.png)
+:::
+
+---
+
+## *Baliser* l'histoire de la création de l'entité « Ninon »
+
+::: {.notes}
+Exprès la notion de balise : comme on balise un texte en TEI/MD, essayer de le faire sur les métamorphoses d'un personnage historique réel, Anne de Lenclos, en un personnage fictif/mythique, Ninon de Lenclos. Ccl en clin d'oeil avec cette citation de Tinan, qui définit la vie de Ninon comme une suite de parenthèses. ;)
+:::
+
+> La vie de Ninon est une suite de parenthèses, ouvertes et fermées par la volupté.
+
+
+@tinanLExempleNinonLenclos1898
+
+
+
+## Bibliographie
